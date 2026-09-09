@@ -1,0 +1,144 @@
+*{
+    box-sizing: border-box;
+     margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif; 
+}
+/*
+  ========================================
+    HEADER
+  ========================================
+*/
+ header{  
+  height: auto; 
+  background: rgb(148, 38, 42); 
+  width: 100%; 
+  clear: both; 
+ }
+h1{
+text-align: center;
+color: white;  
+padding: 10px; 
+}
+
+.harmoni{
+  text-align: center;
+  color: white; 
+  font-size: 12px;
+  font-style: italic;
+  margin: 0
+}
+
+header nav{
+  display: flex; 
+  width: 20%;
+  margin: 20px 40%
+}
+
+.navLink{
+  display: flex;
+  text-align: center;
+  margin: 0 15px; 
+  color: white; 
+  list-style: none; 
+  font-size: 12px;
+  font-weight: bold; 
+  gap: 20px 
+}
+
+.harmoni-2{
+  color: white;
+  width: 100%; 
+  background: rgb(59, 110, 55); 
+  text-align: center;
+  font-size: 12px; 
+  padding-top: 5px; 
+  font-weight: bold; 
+
+}
+
+/*
+  ========================================
+    MAIN
+  ========================================
+*/
+
+main{ 
+  height: auto;  
+  width: 100%; 
+}
+
+img{ 
+  width: 100%; 
+}
+
+/*
+  ========================================
+  SECTION 
+  ========================================
+*/
+.container{
+  width: 80%; 
+  margin: 20px 10%;
+  height: auto; 
+}
+
+h2{
+  width: 100%;  
+  font-size: 20px;
+  color: rgb(148, 38, 42);
+  text-align: center;
+  margin-top: 50px;
+}
+.command-bravo{
+  border: 2px solid black; 
+  display: flex; 
+}
+h3{ 
+  width: 90%; 
+  color: rgb(59, 110, 55);
+  font-size: 14px;
+  border-bottom: 2px dotted rgb(148, 38, 42);
+  padding-top: 10px;
+  padding-bottom: 8px;
+}
+li{
+  font-size: 12px;
+  padding: 5px; 
+  list-style: none;
+  margin: 2px 0; 
+  width: 30%;
+  text-align: left; 
+}
+.charlie{
+  width: 50%; 
+}
+.charlie-2{
+  width: 50%; 
+}
+
+.sec-4{
+  padding-top: 50px;
+}
+/*
+  ========================================
+    FOOTER 
+  ========================================
+*/
+
+footer{
+  clear: both; 
+  height: auto; 
+  text-align: center;
+  color: rgb(202,188,163); 
+  background: rgb(49, 38, 30); 
+  padding: 30px;
+}
+.pet{
+  margin-top: 10px;
+}
+.peter{
+  margin-top: 20px;
+}
