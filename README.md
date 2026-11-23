@@ -1,6 +1,6 @@
 # Philly Restaurant
 
-Philly Restaurant is a website I created for my software engineering coursework.
+Philly Restaurant is a coursework restaurant website for Marconi’s Steak & Hoagies in South Philadelphia. It organizes cheesesteaks, hoagies, sides, and drinks into a menu with prices and includes the shop’s address, phone number, and hours.
 
 ## Project Preview & Site Link
 
@@ -16,11 +16,9 @@ GitHub: https://sushanathomas.github.io/Philly-Restaurant/
 
 ## Features
 
-- Navigation
-
-## Live Website
-
-Coming soon!
+- Menu categories for cheesesteaks, hoagies, sides, and drinks
+- Sandwich options and pricing
+- Location, opening hours, phone number, and cash-only information
 
 ## What I Learned
 
